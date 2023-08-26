@@ -1,4 +1,10 @@
 #Tic Tac Toe :)
+
+#Jasmine King
+#CS625: Data Visualization
+#HW1-Setup
+
+
 """A tic-tac-toe game built with Python and Tkinter, credit to source: https://realpython.com/tic-tac-toe-python/"""
 
 import tkinter as tk
